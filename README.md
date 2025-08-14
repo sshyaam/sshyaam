@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Kumar Singh — Backend & ML" width="100%" />
+  <img src="https://shyaam.vercel.app/static/media/profilepic.fd1ee4623a0ea36d89e7.png" alt="Shyaam S — Backend & ML" height="256px" width="256px" />
 </p>
 
-<h3 align="center">Hi, I'm Kumar 👋</h3>
+<h3 align="center">Hi, I'm Shyaam 👋</h3>
 
 <p align="center">
   Backend & ML • Python | Java | FastAPI | AWS
 </p>
 
 <p align="center">
-  <a href="mailto:kumars@gmail.com">Email</a> •
+  <a href="mailto:shyaam.srid@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/shyaamsrid">LinkedIn</a> •
   <a href="https://shyaam.vercel.app/">Portfolio</a>
 </p>
