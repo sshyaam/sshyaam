@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://shyaam.vercel.app/static/media/profilepic.fd1ee4623a0ea36d89e7.png" alt="Shyaam S — Backend & ML" height="256px" width="256px" />
+  <!-- <img src="https://shyaam.vercel.app/static/media/profilepic.fd1ee4623a0ea36d89e7.png" alt="Shyaam S — Backend & ML" height="256px" width="256px" /> -->
 </p>
 
 <h3 align="center">Hi, I'm Shyaam 👋</h3>
