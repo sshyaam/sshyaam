@@ -42,7 +42,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="160" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sshyaam&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" />
+  <img height="160" alt="Stats" src="https://github-readme-stats-fast.vercel.app/api?username=sshyaam&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&v=1" />
 </p>
 
 ### 🔥 Streak
@@ -52,16 +52,15 @@
 
 ### 🧰 Top Languages
 <p align="center">
-  <img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshyaam&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="160" alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sshyaam&layout=compact&hide_border=true&theme=tokyonight&v=1" />
 </p>
 
 <!-- Optional: pin cards for featured repos -->
 <p align="center">
   <a href="https://github.com/sshyaam/EMail-Spam-Filtering-Using-Ensemble-Model-and-Effective-Data-Storage-Optimization">
-    <img width="45%" alt="Spam Filter Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=sshyaam&repo=EMail-Spam-Filtering-Using-Ensemble-Model-and-Effective-Data-Storage-Optimization&theme=tokyonight&hide_border=true" />
+    <img width="45%" alt="Spam Filter Repo" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sshyaam&repo=EMail-Spam-Filtering-Using-Ensemble-Model-and-Effective-Data-Storage-Optimization&theme=tokyonight&hide_border=true&v=1" />
   </a>
   <a href="https://github.com/sshyaam/QuickFIT-AI">
-    <img width="45%" alt="QuickFIT AI Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=sshyaam&repo=QuickFIT-AI&theme=tokyonight&hide_border=true" />
+    <img width="45%" alt="QuickFIT AI Repo" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sshyaam&repo=QuickFIT-AI&theme=tokyonight&hide_border=true&v=1" />
   </a>
 </p>
-
