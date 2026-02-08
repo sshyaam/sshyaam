@@ -36,7 +36,7 @@
   https://github.com/sshyaam/QuickFIT-AI
 
 ### 🤝 Let’s collaborate
-**Let’s collaborate on deterministic ML projects / network security.**
+**Let’s collaborate on scalable backend projects, deterministic ML projects or/and network security.**
 
 ---
 
